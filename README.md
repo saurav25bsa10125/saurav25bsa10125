@@ -7,8 +7,8 @@
 ---
 
 ### 🔧 What I'm up to
-- 🌱 Building IoT + AI projects that solve real problems
-- 📚 Learning Python, ML & embedded systems
+- 🌱 Building AI projects that solve real problems
+- 📚 Learning Python, ML & C & CPP
 - 🏆 Always up for a hackathon
 - ⚡ Fun fact: I turn coffee into code (and sometimes into bugs)
 
@@ -21,11 +21,6 @@
 
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-
-
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 
 
