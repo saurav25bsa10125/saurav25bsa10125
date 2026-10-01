@@ -1,53 +1,86 @@
-<h1 align="center">Hey, I'm Saurav 👋</h1>
+# Hi, I'm Saurav Kumar 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=550&lines=CS+Student+%F0%9F%8E%93;IoT+%26+AI+Builder+%F0%9F%A4%96;Hackathon+Enthusiast+%F0%9F%9A%80;Learning%2C+Building+%26+Innovating+%F0%9F%92%A1" alt="Typing SVG" />
-</p>
+### CSE Student | Software Developer | AI/ML Enthusiast | Hackathon Builder
+
+I'm a Computer Science student passionate about **problem solving, software development, AI/ML, and building practical solutions for real-world problems.**
+
+I enjoy turning ideas into working projects and continuously improving my **DSA, programming, and development skills.**
 
 ---
 
-### 🔧 What I'm up to
-- 🌱 Building AI projects that solve real problems
-- 📚 Learning Python, ML & C & CPP
-- 🏆 Always up for a hackathon
-- ⚡ Fun fact: I turn coffee into code (and sometimes into bugs)
+## 🚀 About Me
 
-### 🛠️ Tech Stack
+- 🎓 Computer Science & Engineering Student
+- 💻 Practicing Data Structures & Algorithms
+- 🤖 Exploring AI & Machine Learning
+- 🌐 Building real-world web applications
+- 🏆 Interested in Hackathons & Innovation Challenges
+- 🔧 Learning by building practical projects
+- 📈 Preparing for Software Engineering placements
 
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 🛠️ Technical Skills
 
-
-
-
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-
-
-
+### Web & Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+### Core CS
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Operating Systems
+- Database Management Systems
+- Computer Networks
+- Machine Learning Fundamentals
 
+---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurav25bsa10125&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav25bsa10125&layout=compact&theme=radical" height="160" />
-</p>
+## 💡 Featured Project
 
-### 📫 Let's connect
-[
+### 🌾 GramSathi — Smart Village Platform
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+An intelligent smart-village platform designed to bring **water, livestock, energy, alerts and community information** into one digital system.
 
-](https://linkedin.com/in/saurav-kumar-04aa81407/)
-[
+**Key Features:**
+- 💧 Water monitoring
+- 🐄 Livestock monitoring
+- ☀️ Solar & energy monitoring
+- 🚨 Smart alerts
+- 🏘️ Community display
+- 🤖 AI-powered assistance
 
+🔗 **Live Demo:**  
+https://gramsathi-y2sq.onrender.com/
 
+---
 
-<p align="center"><i>"Build things that solve real problems." ✨</i></p>
+## 🏆 Hackathons & Projects
+
+I enjoy participating in hackathons and building technology-driven solutions focused on **real-world problems, innovation and social impact.**
+
+### Current Focus
+- AI-powered applications
+- Smart village & IoT concepts
+- Machine Learning projects
+- Web application development
+- Problem-solving using technology
+
+---
+
+## 📚 Currently Learning
+
+```text
+DSA → Advanced Problem Solving
+C++ → Competitive Programming
+Python → AI / ML
+Web Development → Full Stack
+Git & GitHub → Open Source
